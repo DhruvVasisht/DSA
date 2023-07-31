@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f50ddb7c-df37-414f-be8c-0ac104cef86b" name="Changes" comment="Lecture 1">
-      <change afterPath="$PROJECT_DIR$/src/Lecture2/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture2/Userinput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture1/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture1/Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture2/Operators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +83,23 @@
       <option name="project" value="LOCAL" />
       <updated>1690700928385</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lecture 1">
+      <option name="closed" value="true" />
+      <created>1690786117997</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690786117997</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lecture 1">
+      <option name="closed" value="true" />
+      <created>1690786138869</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690786138869</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
