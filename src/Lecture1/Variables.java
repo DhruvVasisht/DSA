@@ -1,3 +1,5 @@
+package Lecture1;
+
 public class Variables {
     public static void main(String[] args) {
         /*
@@ -7,13 +9,12 @@ public class Variables {
         System.out.print(count);
         */
 
-        /*float pi= 3.14f;
+        float pi= 3.14f;
         double secondPi= 3.14;
         System.out.println(pi);
         System.out.println(secondPi);
         int age=150;
         byte newAge=(byte)age;
-        System.out.println(newAge);*/
-
+        System.out.println(newAge);
     }
 }
