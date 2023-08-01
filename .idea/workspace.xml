@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f50ddb7c-df37-414f-be8c-0ac104cef86b" name="Changes" comment="Lecture 1">
-      <change afterPath="$PROJECT_DIR$/src/Lecture2/Userinput.java" afterDir="false" />
+    <list default="true" id="f50ddb7c-df37-414f-be8c-0ac104cef86b" name="Changes" comment="Lecture 2">
+      <change afterPath="$PROJECT_DIR$/src/Lecture3/ifelse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture3/switchcase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture2/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture2/Operators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DhruvVasisht&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="84fe45af-a9dc-4cfd-b5ea-70fbd26c76ad" />
+        <option name="url" value="https://github.com/DhruvVasisht/DSA.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -52,20 +66,6 @@
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.3058104&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture1.Hello" />
-      <module name="DSA Prime" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Hello" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -99,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690786138869</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lecture 2">
+      <option name="closed" value="true" />
+      <created>1690790839970</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690790839970</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lecture 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lecture 1" />
+    <MESSAGE value="Lecture 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lecture 2" />
   </component>
 </project>
