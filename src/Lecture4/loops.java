@@ -8,10 +8,10 @@ public class loops {
         //System.out.println("Hello");
         //System.out.println(i);
 
-        Scanner sc = new Scanner(System.in);
+       /* Scanner sc = new Scanner(System.in);
         System.out.println("Enter the Number");
         int n = sc.nextInt();
-      /* System.out.println("Table Of Number Is: ");
+       System.out.println("Table Of Number Is: ");
         for(int i=0;i<=10;i++){
             System.out.println(i+"*"+n+"="+i*n);
 

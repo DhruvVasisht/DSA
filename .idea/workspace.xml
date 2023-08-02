@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f50ddb7c-df37-414f-be8c-0ac104cef86b" name="Changes" comment="Lecture 3">
-      <change afterPath="$PROJECT_DIR$/src/Lecture4/loops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f50ddb7c-df37-414f-be8c-0ac104cef86b" name="Changes" comment="Lecture 4">
+      <change beforePath="$PROJECT_DIR$/src/Lecture4/loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture4/loops.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +113,31 @@
       <option name="project" value="LOCAL" />
       <updated>1690872000631</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Lecture 4">
+      <option name="closed" value="true" />
+      <created>1690960805169</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690960805169</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Lecture 4">
+      <option name="closed" value="true" />
+      <created>1690960871724</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1690960871724</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Lecture 4">
+      <option name="closed" value="true" />
+      <created>1690960925291</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1690960925291</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +155,7 @@
     <MESSAGE value="Lecture 1" />
     <MESSAGE value="Lecture 2" />
     <MESSAGE value="Lecture 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lecture 3" />
+    <MESSAGE value="Lecture 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lecture 4" />
   </component>
 </project>
