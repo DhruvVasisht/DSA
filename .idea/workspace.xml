@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f50ddb7c-df37-414f-be8c-0ac104cef86b" name="Changes" comment="Lecture 4">
-      <change afterPath="$PROJECT_DIR$/src/Lecture4/breakcontinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture4/whileloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture4/nestedloops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690961013674</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Lecture 4">
+      <option name="closed" value="true" />
+      <created>1691055047307</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1691055047307</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
