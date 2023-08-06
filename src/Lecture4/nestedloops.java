@@ -19,7 +19,7 @@ public class nestedloops {
             System.out.println( );
 
 
-        }*/
+        }
 
         for (int i = 0; i <=5 ; i++) {
             int j=0;
@@ -32,7 +32,15 @@ public class nestedloops {
             }
             System.out.println();
             
+        }*/
+        int i=0;
+        int j=1;
+       for( i=1;i<=20;i++){
+           if(i==3)
+               continue;
+           System.out.println(i);
         }
+
 
 
     }
