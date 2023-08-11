@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f50ddb7c-df37-414f-be8c-0ac104cef86b" name="Changes" comment="Lecture 5">
-      <change afterPath="$PROJECT_DIR$/src/Lecture6/math.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture6/methods.java" afterDir="false" />
+    <list default="true" id="f50ddb7c-df37-414f-be8c-0ac104cef86b" name="Changes" comment="Lecture 6">
+      <change afterPath="$PROJECT_DIR$/src/Lecture7/stringques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture7/strings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture5/problemsonarrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture5/problemsonarrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691557604621</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Lecture 6">
+      <option name="closed" value="true" />
+      <created>1691654723410</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1691654723410</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -215,7 +224,8 @@
     <MESSAGE value="Lecture 3" />
     <MESSAGE value="Lecture 4" />
     <MESSAGE value="Lecture 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lecture 5" />
+    <MESSAGE value="Lecture 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lecture 6" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
