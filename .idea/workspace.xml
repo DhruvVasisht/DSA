@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f50ddb7c-df37-414f-be8c-0ac104cef86b" name="Changes" comment="Lecture 6">
-      <change afterPath="$PROJECT_DIR$/src/Lecture7/stringques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture7/strings.java" afterDir="false" />
+    <list default="true" id="f50ddb7c-df37-414f-be8c-0ac104cef86b" name="Changes" comment="Lecture 7">
+      <change afterPath="$PROJECT_DIR$/src/Liveclass2/Lastunsorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Liveclass2/swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Liveclass2/swapp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Liveclass2/swapp2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture5/problemsonarrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture5/problemsonarrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +68,26 @@
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.3058104&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Lastunsorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Liveclass2.Lastunsorted" />
+      <module name="DSA Prime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Liveclass2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lastunsorted" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -204,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691654723410</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Lecture 7">
+      <option name="closed" value="true" />
+      <created>1691782826942</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1691782826942</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,7 +254,8 @@
     <MESSAGE value="Lecture 4" />
     <MESSAGE value="Lecture 5" />
     <MESSAGE value="Lecture 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lecture 6" />
+    <MESSAGE value="Lecture 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lecture 7" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
