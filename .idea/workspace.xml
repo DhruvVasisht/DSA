@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f50ddb7c-df37-414f-be8c-0ac104cef86b" name="Changes" comment="Lecture 7">
-      <change afterPath="$PROJECT_DIR$/src/Liveclass2/Lastunsorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Liveclass2/swap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Liveclass2/swapp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Liveclass2/swapp2.java" afterDir="false" />
+    <list default="true" id="f50ddb7c-df37-414f-be8c-0ac104cef86b" name="Changes" comment="Liveclass">
+      <change afterPath="$PROJECT_DIR$/src/Liveclass2/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Liveclass2/firstindexvalue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,40 +52,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.3058104&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "settings.editor.splitter.proportion": "0.3058104"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="Lastunsorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Liveclass2.Lastunsorted" />
-      <module name="DSA Prime" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Liveclass2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Lastunsorted" />
-      </list>
-    </recent_temporary>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -233,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691782826942</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Liveclass">
+      <option name="closed" value="true" />
+      <created>1692042901049</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1692042901049</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -255,7 +242,8 @@
     <MESSAGE value="Lecture 5" />
     <MESSAGE value="Lecture 6" />
     <MESSAGE value="Lecture 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lecture 7" />
+    <MESSAGE value="Liveclass" />
+    <option name="LAST_COMMIT_MESSAGE" value="Liveclass" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
